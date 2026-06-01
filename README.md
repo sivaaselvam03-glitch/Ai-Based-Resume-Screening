@@ -1,10 +1,10 @@
-# TalentLens AI Resume Screening
+# AI-Based Resume Screening
 
-A modern React web app generated from `AI_RESUME_SCREENING_SYSTEM.md`.
+AI-Based Resume Screening Web App that uses AI-style scoring and NLP-inspired text matching to analyze resumes, extract candidate information, match profiles with job descriptions, rank applicants, and provide hiring recommendations.
 
 ## Features
 
-- Resume upload or pasted resume text
+- Resume upload for TXT, MD, CSV, and text-based PDF files
 - Local AI-style scoring across skills, experience, education, semantics, and culture
 - Candidate ranking, filters, shortlists, and stage movement
 - Bias review, blind-screening mode, explanations, and interview questions
